@@ -115,7 +115,6 @@
 % Enable if you want to make header or footer using fancyhdr
 \pagestyle{fancy}
 
-
 %-------------------------------------------------------------------------------
 %                Configuration for colors
 %-------------------------------------------------------------------------------

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2018.6.4)  8 JUN 2018 10:13
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2018.6.4)  8 JUN 2018 10:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1075,7 +1075,7 @@ tly
 )
 \Hy@SectionHShift=\skip78
 )
-LaTeX Info: Redefining \FA on input line 164.
+LaTeX Info: Redefining \FA on input line 163.
 \g__fontspec_family_Roboto_int=\count294
 )
 (./resume_cv.aux)
@@ -1287,7 +1287,7 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 93.
 Here is how much of TeX's memory you used:
  37921 strings out of 493007
  748021 string characters out of 6136720
- 956022 words of memory out of 5000000
+ 956062 words of memory out of 5000000
  41411 multiletter control sequences out of 15000+600000
  532754 words of font info for 86 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
