@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2018.11.6)  14 NOV 2018 08:37
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2018.11.6)  19 JUN 2019 20:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1260,13 +1260,13 @@ t line 24.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/it' will be
 (Font)              scaled to size 8.0pt on input line 24.
 ) (./cv-sections/skills.tex
-Overfull \hbox (69.25247pt too wide) in alignment at lines 11--33
+Overfull \hbox (69.25247pt too wide) in alignment at lines 11--34
 [] [] 
  []
 
 ) (./cv-sections/experience.tex
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/bx/n' will be
-(Font)              scaled to size 9.0pt on input line 31.
+(Font)              scaled to size 9.0pt on input line 32.
  [1
 
 ]) (./cv-sections/honors.tex
